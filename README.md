@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JS, PHP, MySQL etc.**
 
-- 💬 Ask me about **PHP, JS, C**
+- 💬 Ask me about **HTML, CSS, PHP, JS, C**
 
 - 📫 How to reach me **naskarkalyan2000@outlook.com**
 
